@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ssavi08
 - 👀 I’m interested in computers
-- 🌱 I’m currently learning c programming :(
-- 💞️ I’m looking to collaborate on well paid job
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on creating a better world/well paid job
 - 📫 How to reach me ... hmm
 
 <!---
